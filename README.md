@@ -12,7 +12,7 @@ Steps to Run the Project
 
 Clone the repository
 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/AlliyaFatma/Assignment-and-Labwork.git
 
 Open the project folder
 
@@ -21,3 +21,4 @@ cd repository-name
 Open main.html in a browser
 OR
 Run using VS Code Live Server if applicable
+
